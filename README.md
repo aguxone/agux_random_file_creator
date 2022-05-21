@@ -8,7 +8,7 @@ Application is intended to be used in Windows, although it can be compiled for a
 <img src="https://github.com/aguxone/agux_random_file_creator/blob/gif_storage/prueba_rando_creator.gif?raw=true" alt="agxu_rfc_gif" width="40%" height="40%">
 
 ## Libraries used
-- ImGui 1.88 Docking (for the GUI, OpenGl3 as backend)
+- ImGui 1.88 Docking (for the GUI, OpenGL3 as backend)
 - SDL 2.0.20
 
 
