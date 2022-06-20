@@ -1,7 +1,7 @@
 # Agux's Random File Creator
 
 ## Description
-Creates a random text file file containing the current date every "x" seconds in the specified paths; app has an integrated GUI made with Dear ImGUI and it's easy and straightforward to use.
+Creates a random text file file containing the current date and time every "x" seconds in the specified paths; app has an integrated GUI made with Dear ImGUI and it's easy and straightforward to use.
 File paths (the ones where the random files will be created) need to be specificied in the "directorios.ini" file separated by a new line.
 Application is intended to be used in Windows, although it could be compiled for any platform without it's "minimize to notification area" functionality.
 A windows release is available on this repository.
