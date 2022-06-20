@@ -14,7 +14,7 @@ A windows release is available on this repository.
 - SDL 2.0.20
 
 ## Compiling from source:
-The code was made to be compiled with MinGW compiler for windows, although Imgui and SDL are cross-platform libraries and you can theoretically compile this code for windows, linux, macos and even for Android and Ios.
+The code was made to be compiled with MinGW compiler for windows (you can change a single line from g++ to Clang in the Makefile to compile with Clang if you prefer, not tested), although Imgui and SDL are cross-platform libraries and you can theoretically compile this code for windows, linux, macos and even for Android and Ios with proper compilation parameters and dependencies.
 - For windows: Have a version of the MinGW compiler (i used version 11.2.0 compiled by Brecht Sanders https://www.winlibs.com/), and on a command prompt go to the root directory of the app and simply use the following command (in order to use the provided Makefile)
 
     mingw32-make -f Makefile
