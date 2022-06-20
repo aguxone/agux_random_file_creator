@@ -7,7 +7,8 @@ Application is intended to be used in Windows, although it could be compiled for
 A windows release is available on this repository.
 
 <!-- ![screen-gif](./prueba_rando_creator.gif) -->
-<img src="https://github.com/aguxone/agux_random_file_creator/blob/gif_storage/prueba_rando_creator.gif?raw=true" alt="agxu_rfc_gif" width="60%" height="40%">
+<img src="https://github.com/aguxone/agux_random_file_creator/blob/gif_storage/760x530_15fps.gif?raw=true" alt="agxu_rfc_gif" width="60%" height="40%">
+
 
 ## Libraries used
 - ImGui 1.88 Docking (for the GUI, OpenGL3 as backend)
